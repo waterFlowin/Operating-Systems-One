@@ -42,7 +42,8 @@
 
 #include <stdio.h>
 
-int main(int argc, char** argv) {
-  printf("Hello world!");
+int main(void) // int argc, char **argv)
+{
+  
 }
 
